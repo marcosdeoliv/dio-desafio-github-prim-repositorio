@@ -1,0 +1,3 @@
+link para download do github desktop: https://desktop.github.com/
+
+O Git Bash é um teminal estendido para otimizar o uso do git.
